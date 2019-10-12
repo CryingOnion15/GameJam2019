@@ -1,2 +1,2 @@
-F:\UnrealGames\GameJamFall2019\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
-f:\unrealgames\gamejamfall2019\myproject\source\myproject\MyProject.h
+C:\Users\kingg\Documents\GameJam2019\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+C:\Users\kingg\Documents\GameJam2019\MyProject\Source\MyProject\MyProject.h

@@ -241,17 +241,16 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/I F:\UnrealGames\GameJamFall2019\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine
-/Yc"F:\UnrealGames\GameJamFall2019\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"F:\UnrealGames\GameJamFall2019\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"F:\UnrealGames\GameJamFall2019\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.cpp"
-/Fo"F:\UnrealGames\GameJamFall2019\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.h.obj"
+/I C:\Users\kingg\Documents\GameJam2019\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine
+/Yc"C:\Users\kingg\Documents\GameJam2019\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\kingg\Documents\GameJam2019\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\kingg\Documents\GameJam2019\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.cpp"
+/Fo"C:\Users\kingg\Documents\GameJam2019\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.h.obj"
 /TP
 /GR-
 /W4
