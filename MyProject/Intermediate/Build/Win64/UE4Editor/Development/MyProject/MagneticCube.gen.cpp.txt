@@ -1,0 +1,5 @@
+F:\UnrealGames\GameJamFall2019\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+F:\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+F:\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\UnrealGames\GameJamFall2019\MyProject\Source\MyProject/MagneticCube.h
+f:\unrealgames\gamejamfall2019\myproject\intermediate\build\win64\ue4editor\inc\myproject\MagneticCube.generated.h
