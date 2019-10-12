@@ -1,0 +1,17 @@
+F:\UnrealGames\GameJamFall2019\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+f:\unrealgames\gamejamfall2019\myproject\source\myproject\MyProjectHUD.h
+F:\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+F:\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+F:\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+F:\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+F:\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+F:\UnrealGames\GameJamFall2019\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\MyProjectHUD.generated.h
+F:\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Canvas.h
+F:\UE_4.23\Engine\Source\Runtime\Engine\Public\CanvasItem.h
+F:\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
+F:\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
+F:\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\FontImportOptions.generated.h
+F:\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
+F:\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontProviderInterface.generated.h
+F:\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Font.generated.h
+F:\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Canvas.generated.h
