@@ -926,3 +926,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.12-05.46.15:045][450]LogUObjectHash: Compacting FUObjectHashTables data took   7.25ms
 [2019.10.12-05.46.15:109][451]LogPlayLevel: Display: Destroying online subsystem :Context_4
 [2019.10.12-05.47.11:357][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-05.49.13:213][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.10.12-05.49.13:779][971]LogSavePackage: Moving '../../../../UnrealGames/GameJamFall2019/MyProject/Saved/FirstPersonExampleMap_Auto7D013D7E74129FC4E24A5F9939F730268.tmp' to '../../../../UnrealGames/GameJamFall2019/MyProject/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto7.umap'
+[2019.10.12-05.49.13:794][971]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.628
+[2019.10.12-05.49.13:796][971]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.628
