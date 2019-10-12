@@ -1,9 +1,9 @@
-F:\UnrealGames\GameJamFall2019\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
-F:\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-F:\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-F:\UnrealGames\GameJamFall2019\MyProject\Source\MyProject/MyProjectGameMode.h
-F:\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-F:\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-F:\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-F:\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-f:\unrealgames\gamejamfall2019\myproject\intermediate\build\win64\ue4editor\inc\myproject\MyProjectGameMode.generated.h
+C:\Users\kingg\Documents\GameJam2019\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+D:\Programs\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Programs\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\kingg\Documents\GameJam2019\MyProject\Source\MyProject/MyProjectGameMode.h
+D:\Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\kingg\Documents\GameJam2019\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\MyProjectGameMode.generated.h

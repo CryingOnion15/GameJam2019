@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\MyProject.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{26471EA9-A6E9-4CC3-83E3-0CF5AD6261AD}</UniqueIdentifier>
+      <UniqueIdentifier>{F8A99EA5-11BA-45F5-8D5F-FCA962B37A58}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\MyProject.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{4297472B-6FD3-416B-AA25-3966689688FB}</UniqueIdentifier>
+      <UniqueIdentifier>{B143079A-145C-4DB6-9CF8-97EA5291467D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,8 +30,14 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\MyProject">
-      <UniqueIdentifier>{88F95AEC-8ADE-4037-852F-544F24FEF955}</UniqueIdentifier>
+      <UniqueIdentifier>{9BCEDAAE-A240-4EF0-BB08-5DF113DAA21C}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\MyProject\MagnaMan.cpp">
+      <Filter>Source\MyProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject\MagnaMan.h">
+      <Filter>Source\MyProject</Filter>
+    </ClInclude>
     <None Include="..\..\Source\MyProject\MyProject.Build.cs">
       <Filter>Source\MyProject</Filter>
     </None>

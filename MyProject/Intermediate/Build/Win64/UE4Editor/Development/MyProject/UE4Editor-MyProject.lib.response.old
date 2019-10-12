@@ -6,6 +6,7 @@
 /NAME:"UE4Editor-MyProject.dll"
 /IGNORE:4221
 /NODEFAULTLIB
+<<<<<<< HEAD
 "F:\UnrealGames\GameJamFall2019\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.h.obj"
 "F:\UnrealGames\GameJamFall2019\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProject.cpp.obj"
 "F:\UnrealGames\GameJamFall2019\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProjectCharacter.cpp.obj"
@@ -19,4 +20,19 @@
 "F:\UnrealGames\GameJamFall2019\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProjectProjectile.gen.cpp.obj"
 "F:\UnrealGames\GameJamFall2019\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Default.rc2.res"
 /OUT:"F:\UnrealGames\GameJamFall2019\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject.lib"
+=======
+"C:\Users\kingg\Documents\GameJam2019\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\kingg\Documents\GameJam2019\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProject.cpp.obj"
+"C:\Users\kingg\Documents\GameJam2019\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProjectCharacter.cpp.obj"
+"C:\Users\kingg\Documents\GameJam2019\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProjectGameMode.cpp.obj"
+"C:\Users\kingg\Documents\GameJam2019\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProjectHUD.cpp.obj"
+"C:\Users\kingg\Documents\GameJam2019\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProjectProjectile.cpp.obj"
+"C:\Users\kingg\Documents\GameJam2019\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProject.init.gen.cpp.obj"
+"C:\Users\kingg\Documents\GameJam2019\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProjectCharacter.gen.cpp.obj"
+"C:\Users\kingg\Documents\GameJam2019\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProjectGameMode.gen.cpp.obj"
+"C:\Users\kingg\Documents\GameJam2019\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProjectHUD.gen.cpp.obj"
+"C:\Users\kingg\Documents\GameJam2019\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProjectProjectile.gen.cpp.obj"
+"C:\Users\kingg\Documents\GameJam2019\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Default.rc2.res"
+/OUT:"C:\Users\kingg\Documents\GameJam2019\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject.lib"
+>>>>>>> 6fe9f31509d9f60a34947e2627523b41049c7bc3
 /INCLUDE:IMPLEMENT_MODULE_MyProject
