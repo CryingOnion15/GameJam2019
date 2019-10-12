@@ -592,3 +592,341 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.12-03.33.50:679][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
 [2019.10.12-03.33.50:692][ 30]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2869 classes and 684 folders.
 [2019.10.12-03.33.50:694][ 30]Display: HotReload took  0.1s.
+[2019.10.12-04.09.38:604][694]LogHttp: Warning: 0000028C1E5547C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B14B4843A-4AA8-3569-C0F0-00A07F3129EB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ae999e8541d2460070f644b158f2b42a%7C7c5f37177b644fee89ad296b286bc11d%7Cd7cb96ce-e030-4cd2-91f1-9c08bfa13457&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.12-04.09.38:606][694]LogHttp: Warning: 0000028C1E5547C0: request failed, libcurl error: 0 (No error)
+[2019.10.12-04.09.38:606][694]LogHttp: Warning: 0000028C1E5547C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x28c1ca4ff70 [can pipeline])
+[2019.10.12-04.09.38:606][694]LogHttp: Warning: 0000028C1E5547C0: libcurl info message cache 1 (Re-using existing connection! (#17) with host datarouter.ol.epicgames.com)
+[2019.10.12-04.09.38:606][694]LogHttp: Warning: 0000028C1E5547C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.1.90.14) port 443 (#17))
+[2019.10.12-04.09.38:607][694]LogHttp: Warning: 0000028C1E5547C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.12-04.09.38:607][694]LogHttp: Warning: 0000028C1E5547C0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.12-04.09.38:607][694]LogHttp: Warning: 0000028C1E5547C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.12-04.09.38:607][694]LogHttp: Warning: 0000028C1E5547C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.12-04.09.38:607][694]LogHttp: Warning: 0000028C1E5547C0: libcurl info message cache 7 (Closing connection 17)
+[2019.10.12-04.09.38:608][694]LogHttp: Warning: 0000028C1E5547C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.12-04.09.38:608][694]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B14B4843A-4AA8-3569-C0F0-00A07F3129EB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ae999e8541d2460070f644b158f2b42a%7C7c5f37177b644fee89ad296b286bc11d%7Cd7cb96ce-e030-4cd2-91f1-9c08bfa13457&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.12-04.26.52:310][ 85]LogHotReload: New module detected: UE4Editor-MyProject-0002.dll
+[2019.10.12-04.26.54:341][ 92]LogHotReload: Starting Hot-Reload from IDE
+[2019.10.12-04.26.54:879][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2019.10.12-04.26.55:305][ 92]LogHotReload: Re-instancing MagneticCube after hot-reload.
+[2019.10.12-04.26.56:325][ 92]LogContentBrowser: Native class hierarchy updated for 'MyProject' in 0.0020 seconds. Added 5 classes and 2 folders.
+[2019.10.12-04.26.56:329][ 92]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2019.10.12-04.26.56:413][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.10.12-04.26.56:551][ 92]LogContentBrowser: Native class hierarchy populated in 0.0275 seconds. Added 2869 classes and 684 folders.
+[2019.10.12-04.26.56:683][ 92]Display: HotReload took  2.3s.
+[2019.10.12-04.27.06:372][258]LogEditor: Attempting to add actor of class 'MagneticCube' to level at -660.00,-360.00,170.00
+[2019.10.12-04.27.07:344][258]LogEditor: Attempting to add actor of class 'MagneticCube' to level at -400.00,-530.00,170.00
+[2019.10.12-04.27.54:356][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.10.12-04.27.55:241][441]LogSavePackage: Moving '../../../../UnrealGames/GameJamFall2019/MyProject/Saved/FirstPersonExampleMap_Auto1E423E557459E40A98BA58A98AF09A5C4.tmp' to '../../../../UnrealGames/GameJamFall2019/MyProject/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2019.10.12-04.27.55:382][441]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 1.052
+[2019.10.12-04.27.55:383][441]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.052
+[2019.10.12-04.37.31:861][164]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.12-04.37.37:639][681]LogSlate: Took 0.043424 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.12-04.37.40:997][  2]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube20)
+[2019.10.12-04.37.42:173][  4]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube20)
+[2019.10.12-04.37.44:482][212]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.12-04.37.54:018][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.12-04.37.55:530][274]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.12-04.37.56:672][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.12-04.37.57:284][480]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.12-04.37.58:123][579]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.12-04.38.03:533][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-04.44.27:044][989]LogHotReload: New module detected: UE4Editor-MyProject-0004.dll
+[2019.10.12-04.44.28:390][994]LogHotReload: Starting Hot-Reload from IDE
+[2019.10.12-04.44.28:679][994]LogUObjectHash: Compacting FUObjectHashTables data took  16.13ms
+[2019.10.12-04.44.29:030][994]LogHotReload: Re-instancing MagneticCube after hot-reload.
+[2019.10.12-04.44.29:167][994]LogContentBrowser: Native class hierarchy updated for 'MyProject' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2019.10.12-04.44.29:170][994]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2019.10.12-04.44.29:239][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2019.10.12-04.44.29:253][994]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2869 classes and 684 folders.
+[2019.10.12-04.44.29:255][994]Display: HotReload took  0.9s.
+[2019.10.12-04.44.57:611][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-04.46.25:145][684]LogHotReload: New module detected: UE4Editor-MyProject-0005.dll
+[2019.10.12-04.46.26:830][690]LogHotReload: Starting Hot-Reload from IDE
+[2019.10.12-04.46.26:867][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.10.12-04.46.26:968][690]LogHotReload: Re-instancing MagneticCube after hot-reload.
+[2019.10.12-04.46.27:070][690]LogContentBrowser: Native class hierarchy updated for 'MyProject' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2019.10.12-04.46.27:074][690]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2019.10.12-04.46.27:136][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.10.12-04.46.27:152][690]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2869 classes and 684 folders.
+[2019.10.12-04.46.27:155][690]Display: HotReload took  0.3s.
+[2019.10.12-04.46.32:638][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-04.48.55:375][841]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.12-04.49.00:453][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-04.51.34:873][740]LogHotReload: New module detected: UE4Editor-MyProject-0007.dll
+[2019.10.12-04.51.36:273][745]LogHotReload: Starting Hot-Reload from IDE
+[2019.10.12-04.51.36:313][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.10.12-04.51.36:633][745]LogHotReload: Re-instancing MagneticCube after hot-reload.
+[2019.10.12-04.51.36:829][745]LogContentBrowser: Native class hierarchy updated for 'MyProject' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2019.10.12-04.51.36:832][745]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2019.10.12-04.51.36:900][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.10.12-04.51.36:914][745]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2869 classes and 684 folders.
+[2019.10.12-04.51.36:917][745]Display: HotReload took  0.6s.
+[2019.10.12-04.51.48:374][780]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-04.52.13:553][492]LogHotReload: New module detected: UE4Editor-MyProject-0008.dll
+[2019.10.12-04.52.14:568][496]LogHotReload: Starting Hot-Reload from IDE
+[2019.10.12-04.52.14:615][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.10.12-04.52.14:876][496]LogHotReload: Re-instancing MagneticCube after hot-reload.
+[2019.10.12-04.52.14:966][496]LogContentBrowser: Native class hierarchy updated for 'MyProject' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2019.10.12-04.52.14:969][496]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2019.10.12-04.52.15:029][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.10.12-04.52.15:043][496]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2869 classes and 684 folders.
+[2019.10.12-04.52.15:045][496]Display: HotReload took  0.5s.
+[2019.10.12-04.52.18:135][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.10.12-04.52.18:296][505]LogSavePackage: Moving '../../../../UnrealGames/GameJamFall2019/MyProject/Saved/FirstPersonExampleMap_Auto23B889E094D6F3BF357D2389964C4652F.tmp' to '../../../../UnrealGames/GameJamFall2019/MyProject/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2019.10.12-04.52.18:299][505]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.186
+[2019.10.12-04.52.18:299][505]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.186
+[2019.10.12-04.54.56:757][108]LogHotReload: New module detected: UE4Editor-MyProject-0009.dll
+[2019.10.12-04.54.58:111][113]LogHotReload: Starting Hot-Reload from IDE
+[2019.10.12-04.54.58:142][113]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.10.12-04.54.58:167][113]LogHotReload: Re-instancing MagneticCube after hot-reload.
+[2019.10.12-04.54.58:257][113]LogContentBrowser: Native class hierarchy updated for 'MyProject' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2019.10.12-04.54.58:260][113]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2019.10.12-04.54.58:320][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.10.12-04.54.58:334][113]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2869 classes and 684 folders.
+[2019.10.12-04.54.58:337][113]Display: HotReload took  0.2s.
+[2019.10.12-04.55.00:696][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.12-04.55.07:125][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-04.56.05:657][454]LogHotReload: New module detected: UE4Editor-MyProject-0010.dll
+[2019.10.12-04.56.07:054][459]LogHotReload: Starting Hot-Reload from IDE
+[2019.10.12-04.56.07:091][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.10.12-04.56.07:292][459]LogHotReload: Re-instancing MagneticCube after hot-reload.
+[2019.10.12-04.56.07:456][459]LogContentBrowser: Native class hierarchy updated for 'MyProject' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2019.10.12-04.56.07:459][459]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2019.10.12-04.56.07:519][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.10.12-04.56.07:533][459]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2869 classes and 684 folders.
+[2019.10.12-04.56.07:535][459]Display: HotReload took  0.5s.
+[2019.10.12-04.57.38:397][570]LogEditor: Attempting to add actor of class 'MagneticCube' to level at -360.00,-400.00,170.00
+[2019.10.12-04.57.39:580][704]LogEditor: Attempting to add actor of class 'MagneticCube' to level at -600.00,-190.00,170.00
+[2019.10.12-04.57.41:756][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-04.57.42:765][ 75]Cmd: DELETE
+[2019.10.12-04.57.42:766][ 75]Cmd: ACTOR DELETE
+[2019.10.12-04.57.43:335][ 75]LogEditorActor: Deleted Actor: MagneticCube
+[2019.10.12-04.57.43:391][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.10.12-04.57.43:391][ 75]LogEditorActor: Deleted 1 Actors (0.140 secs)
+[2019.10.12-04.57.44:502][208]LogEditorViewport: Clicking on Actor (LMB): MagneticCube (MagneticCube9)
+[2019.10.12-05.02.19:412][128]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.12-05.02.19:456][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.10.12-05.02.19:688][128]LogSavePackage: Moving '../../../../UnrealGames/GameJamFall2019/MyProject/Saved/FirstPersonExampleMap_Auto3BC4A56FC43D3B328536DAB82A60E4012.tmp' to '../../../../UnrealGames/GameJamFall2019/MyProject/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2019.10.12-05.02.19:691][128]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.257
+[2019.10.12-05.02.19:691][128]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.257
+[2019.10.12-05.04.48:754][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-05.07.37:819][807]LogHotReload: New module detected: UE4Editor-MyProject-0011.dll
+[2019.10.12-05.07.38:855][811]LogHotReload: Starting Hot-Reload from IDE
+[2019.10.12-05.07.38:909][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2019.10.12-05.07.39:321][811]LogHotReload: Re-instancing MagneticCube after hot-reload.
+[2019.10.12-05.07.39:436][811]LogContentBrowser: Native class hierarchy updated for 'MyProject' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2019.10.12-05.07.39:440][811]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2019.10.12-05.07.39:504][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.10.12-05.07.39:519][811]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2869 classes and 684 folders.
+[2019.10.12-05.07.39:521][811]Display: HotReload took  0.7s.
+[2019.10.12-05.07.49:790][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-05.07.49:907][671]LogEditor: Attempting to add actor of class 'MagneticCube' to level at -760.00,-500.00,170.00
+[2019.10.12-05.07.50:765][768]LogEditor: Attempting to add actor of class 'MagneticCube' to level at -330.00,-520.00,170.00
+[2019.10.12-05.07.53:243][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-05.07.54:378][200]Cmd: DELETE
+[2019.10.12-05.07.54:378][200]Cmd: ACTOR DELETE
+[2019.10.12-05.07.54:379][200]LogEditorActor: Deleted Actor: MagneticCube
+[2019.10.12-05.07.54:402][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.10.12-05.07.54:402][200]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.10.12-05.07.55:635][348]LogEditorViewport: Clicking on Actor (LMB): MagneticCube (MagneticCube12)
+[2019.10.12-05.12.20:238][171]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.12-05.12.20:281][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.10.12-05.12.20:439][171]LogSavePackage: Moving '../../../../UnrealGames/GameJamFall2019/MyProject/Saved/FirstPersonExampleMap_Auto488A14DE3444A900E4ECBA5AE26B195FD.tmp' to '../../../../UnrealGames/GameJamFall2019/MyProject/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2019.10.12-05.12.20:441][171]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.182
+[2019.10.12-05.12.20:442][171]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.182
+[2019.10.12-05.15.39:360][667]LogHotReload: New module detected: UE4Editor-MyProject-0012.dll
+[2019.10.12-05.15.42:083][676]LogHotReload: Starting Hot-Reload from IDE
+[2019.10.12-05.15.42:165][676]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2019.10.12-05.15.42:217][676]LogHotReload: Re-instancing MagneticCube after hot-reload.
+[2019.10.12-05.15.42:381][676]LogContentBrowser: Native class hierarchy updated for 'MyProject' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2019.10.12-05.15.42:385][676]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2019.10.12-05.15.42:472][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.10.12-05.15.42:488][676]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2869 classes and 684 folders.
+[2019.10.12-05.15.42:496][676]Display: HotReload took  0.4s.
+[2019.10.12-05.15.56:052][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-05.15.56:191][  3]LogEditor: Attempting to add actor of class 'MagneticCube' to level at -540.00,-420.00,170.00
+[2019.10.12-05.15.57:086][ 98]LogEditor: Attempting to add actor of class 'MagneticCube' to level at -280.00,-370.00,170.00
+[2019.10.12-05.15.59:623][390]Cmd: DELETE
+[2019.10.12-05.15.59:624][390]Cmd: ACTOR DELETE
+[2019.10.12-05.15.59:625][390]LogEditorActor: Deleted Actor: MagneticCube
+[2019.10.12-05.15.59:648][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.10.12-05.15.59:648][390]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.10.12-05.16.00:597][498]LogEditorViewport: Clicking on Actor (LMB): MagneticCube (MagneticCube12)
+[2019.10.12-05.16.01:425][594]Cmd: DELETE
+[2019.10.12-05.16.01:425][594]Cmd: ACTOR DELETE
+[2019.10.12-05.16.01:426][594]LogEditorActor: Deleted Actor: MagneticCube
+[2019.10.12-05.16.01:448][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.10.12-05.16.01:448][594]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2019.10.12-05.22.21:357][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.10.12-05.22.21:860][933]LogSavePackage: Moving '../../../../UnrealGames/GameJamFall2019/MyProject/Saved/FirstPersonExampleMap_Auto53AD0F57049309A7B69C0EF80DB3629C1.tmp' to '../../../../UnrealGames/GameJamFall2019/MyProject/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto5.umap'
+[2019.10.12-05.22.21:888][933]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.553
+[2019.10.12-05.22.21:889][933]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.553
+[2019.10.12-05.35.50:775][775]LogHotReload: New module detected: UE4Editor-MyProject-0013.dll
+[2019.10.12-05.35.52:468][781]LogHotReload: Starting Hot-Reload from IDE
+[2019.10.12-05.35.52:509][781]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.10.12-05.35.52:552][781]LogHotReload: Re-instancing MagneticCube after hot-reload.
+[2019.10.12-05.35.52:652][781]LogContentBrowser: Native class hierarchy updated for 'MyProject' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2019.10.12-05.35.52:654][781]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2019.10.12-05.35.52:718][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.10.12-05.35.52:734][781]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2869 classes and 684 folders.
+[2019.10.12-05.35.52:736][781]Display: HotReload took  0.3s.
+[2019.10.12-05.36.55:698][ 75]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.12-05.37.00:719][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-05.37.00:862][653]LogEditor: Attempting to add actor of class 'MagneticCube' to level at -760.00,-230.00,170.00
+[2019.10.12-05.37.01:579][734]LogEditor: Attempting to add actor of class 'MagneticCube' to level at -180.00,-1180.00,170.00
+[2019.10.12-05.37.30:796][105]LogHotReload: New module detected: UE4Editor-MyProject-0014.dll
+[2019.10.12-05.37.31:812][109]LogHotReload: Starting Hot-Reload from IDE
+[2019.10.12-05.37.31:850][109]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.10.12-05.37.31:878][109]LogHotReload: Re-instancing MagneticCube after hot-reload.
+[2019.10.12-05.37.31:983][109]LogContentBrowser: Native class hierarchy updated for 'MyProject' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2019.10.12-05.37.31:987][109]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2019.10.12-05.37.32:051][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.10.12-05.37.32:067][109]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 2869 classes and 684 folders.
+[2019.10.12-05.37.32:070][109]Display: HotReload took  0.3s.
+[2019.10.12-05.37.35:444][230]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.12-05.37.35:489][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.10.12-05.37.35:616][230]LogSavePackage: Moving '../../../../UnrealGames/GameJamFall2019/MyProject/Saved/FirstPersonExampleMap_Auto6DD0D82C44A8A8D33D076599500F3D69A.tmp' to '../../../../UnrealGames/GameJamFall2019/MyProject/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto6.umap'
+[2019.10.12-05.37.35:622][230]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.155
+[2019.10.12-05.37.35:622][230]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.155
+[2019.10.12-05.37.37:165][411]Cmd: DELETE
+[2019.10.12-05.37.37:165][411]Cmd: ACTOR DELETE
+[2019.10.12-05.37.37:166][411]LogEditorActor: Deleted Actor: MagneticCube
+[2019.10.12-05.37.37:189][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.10.12-05.37.37:189][411]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.10.12-05.37.37:909][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-05.37.38:022][510]LogEditor: Attempting to add actor of class 'MagneticCube' to level at -540.00,-1070.00,170.00
+[2019.10.12-05.37.38:339][545]LogEditor: Attempting to add actor of class 'MagneticCube' to level at -290.00,-1200.00,170.00
+[2019.10.12-05.38.43:646][803]LogHotReload: New module detected: UE4Editor-MyProject-0015.dll
+[2019.10.12-05.38.45:021][808]LogHotReload: Starting Hot-Reload from IDE
+[2019.10.12-05.38.45:064][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.10.12-05.38.45:089][808]LogHotReload: Re-instancing MagneticCube after hot-reload.
+[2019.10.12-05.38.45:183][808]LogContentBrowser: Native class hierarchy updated for 'MyProject' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2019.10.12-05.38.45:186][808]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2019.10.12-05.38.45:268][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.10.12-05.38.45:287][808]LogContentBrowser: Native class hierarchy populated in 0.0114 seconds. Added 2869 classes and 684 folders.
+[2019.10.12-05.38.45:292][808]Display: HotReload took  0.3s.
+[2019.10.12-05.38.51:004][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-05.38.51:137][290]LogEditor: Attempting to add actor of class 'MagneticCube' to level at 60.00,-930.00,170.00
+[2019.10.12-05.38.51:441][323]LogEditor: Attempting to add actor of class 'MagneticCube' to level at -110.00,-1300.00,170.00
+[2019.10.12-05.38.55:089][755]Cmd: DELETE
+[2019.10.12-05.38.55:089][755]Cmd: ACTOR DELETE
+[2019.10.12-05.38.55:091][755]LogEditorActor: Deleted Actor: MagneticCube
+[2019.10.12-05.38.55:113][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.10.12-05.38.55:113][755]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.10.12-05.38.55:490][800]LogEditorViewport: Clicking on Actor (LMB): MagneticCube (MagneticCube20)
+[2019.10.12-05.38.55:671][820]Cmd: DELETE
+[2019.10.12-05.38.55:671][820]Cmd: ACTOR DELETE
+[2019.10.12-05.38.55:673][820]LogEditorActor: Deleted Actor: MagneticCube
+[2019.10.12-05.38.55:694][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.10.12-05.38.55:694][820]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2019.10.12-05.39.31:349][312]LogHotReload: New module detected: UE4Editor-MyProject-0016.dll
+[2019.10.12-05.39.32:699][317]LogHotReload: Starting Hot-Reload from IDE
+[2019.10.12-05.39.32:730][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.10.12-05.39.32:777][317]LogHotReload: Re-instancing MagneticCube after hot-reload.
+[2019.10.12-05.39.32:868][317]LogContentBrowser: Native class hierarchy updated for 'MyProject' in 0.0005 seconds. Added 5 classes and 2 folders.
+[2019.10.12-05.39.32:871][317]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2019.10.12-05.39.32:935][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.10.12-05.39.32:951][317]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2869 classes and 684 folders.
+[2019.10.12-05.39.32:953][317]Display: HotReload took  0.3s.
+[2019.10.12-05.39.35:848][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-05.39.35:976][461]LogEditor: Attempting to add actor of class 'MagneticCube' to level at 80.00,-1150.00,170.00
+[2019.10.12-05.39.36:218][487]LogEditor: Attempting to add actor of class 'MagneticCube' to level at -50.00,-1180.00,170.00
+[2019.10.12-05.39.46:384][687]LogEditorViewport: Clicking on Actor (context menu): MagneticCube (MagneticCube25)
+[2019.10.12-05.39.46:771][687]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.12-05.40.03:413][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-05.41.05:759][134]LogHotReload: New module detected: UE4Editor-MyProject-0017.dll
+[2019.10.12-05.41.07:104][139]LogHotReload: Starting Hot-Reload from IDE
+[2019.10.12-05.41.07:134][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.10.12-05.41.07:299][139]LogHotReload: Re-instancing MagneticCube after hot-reload.
+[2019.10.12-05.41.07:398][139]LogContentBrowser: Native class hierarchy updated for 'MyProject' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2019.10.12-05.41.07:401][139]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2019.10.12-05.41.07:462][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.10.12-05.41.07:477][139]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2869 classes and 684 folders.
+[2019.10.12-05.41.07:480][139]Display: HotReload took  0.4s.
+[2019.10.12-05.41.11:794][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-05.41.11:953][433]LogEditor: Attempting to add actor of class 'MagneticCube' to level at 450.00,-1140.00,170.00
+[2019.10.12-05.41.12:216][462]LogEditor: Attempting to add actor of class 'MagneticCube' to level at 400.00,-1060.00,170.00
+[2019.10.12-05.41.15:807][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-05.41.22:044][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-05.41.31:876][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-05.42.56:230][582]LogHotReload: New module detected: UE4Editor-MyProject-0018.dll
+[2019.10.12-05.42.57:247][586]LogHotReload: Starting Hot-Reload from IDE
+[2019.10.12-05.42.57:283][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.10.12-05.42.57:306][586]LogHotReload: Re-instancing MagneticCube after hot-reload.
+[2019.10.12-05.42.57:433][586]LogContentBrowser: Native class hierarchy updated for 'MyProject' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2019.10.12-05.42.57:435][586]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2019.10.12-05.42.57:499][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.10.12-05.42.57:515][586]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2869 classes and 684 folders.
+[2019.10.12-05.42.57:517][586]Display: HotReload took  0.3s.
+[2019.10.12-05.43.03:989][103]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Mesh)
+[2019.10.12-05.43.07:846][562]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Mesh)
+[2019.10.12-05.43.09:979][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-05.43.10:346][859]Cmd: DELETE
+[2019.10.12-05.43.10:346][859]Cmd: ACTOR DELETE
+[2019.10.12-05.43.11:060][944]Cmd: DELETE
+[2019.10.12-05.43.11:060][944]Cmd: ACTOR DELETE
+[2019.10.12-05.43.11:062][944]LogEditorActor: Deleted Actor: MagneticCube
+[2019.10.12-05.43.11:085][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.10.12-05.43.11:085][944]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.10.12-05.43.12:482][111]Cmd: DELETE
+[2019.10.12-05.43.12:482][111]Cmd: ACTOR DELETE
+[2019.10.12-05.43.12:484][111]LogEditorActor: Deleted Actor: MagneticCube
+[2019.10.12-05.43.12:505][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.10.12-05.43.12:506][111]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2019.10.12-05.43.14:075][296]LogEditor: Attempting to add actor of class 'MagneticCube' to level at 430.00,-1040.00,170.00
+[2019.10.12-05.43.14:899][391]LogEditor: Attempting to add actor of class 'MagneticCube' to level at 300.00,-1100.00,170.00
+[2019.10.12-05.43.18:011][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-05.44.12:458][274]Cmd: TRANSACTION UNDO
+[2019.10.12-05.44.12:458][274]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2019.10.12-05.44.13:396][362]LogEditorViewport: Clicking on Actor (LMB): MagneticCube (MagneticCube32)
+[2019.10.12-05.44.17:989][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-05.44.21:481][316]Cmd: TRANSACTION UNDO
+[2019.10.12-05.44.21:481][316]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2019.10.12-05.44.30:502][355]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.12-05.44.35:520][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-05.44.38:626][326]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.12-05.44.38:732][326]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.12-05.44.38:802][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.12-05.44.38:878][326]PIE: New page: PIE session: FirstPersonExampleMap (Oct 11, 2019, 7:44:38 PM)
+[2019.10.12-05.44.39:118][326]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.10.12-05.44.39:138][326]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.12-05.44.39:364][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.224655s)
+[2019.10.12-05.44.39:642][326]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.12-05.44.39:704][326]LogPlayLevel: PIE: World Init took: (0.339839s)
+[2019.10.12-05.44.39:721][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.582653s)
+[2019.10.12-05.44.39:755][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.10.12-05.44.39:925][326]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.12-05.44.39:953][326]LogInit: FAudioDevice initialized.
+[2019.10.12-05.44.40:186][326]LogLoad: Game class is 'MyProjectGameMode'
+[2019.10.12-05.44.40:426][326]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.12-00.44.40
+[2019.10.12-05.44.40:571][326]LogWorld: Bringing up level for play took: 0.277517
+[2019.10.12-05.44.40:664][326]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2019.10.12-05.44.41:032][326]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2019.10.12-05.44.41:122][326]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 1.537
+[2019.10.12-05.44.41:122][326]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.12-05.45.38:671][152]LogHttp: Warning: 0000028C00A35D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B14B4843A-4AA8-3569-C0F0-00A07F3129EB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ae999e8541d2460070f644b158f2b42a%7C7c5f37177b644fee89ad296b286bc11d%7Cd7cb96ce-e030-4cd2-91f1-9c08bfa13457&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.12-05.45.38:672][152]LogHttp: Warning: 0000028C00A35D00: request failed, libcurl error: 0 (No error)
+[2019.10.12-05.45.38:672][152]LogHttp: Warning: 0000028C00A35D00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x28c1ca4ff70 [can pipeline])
+[2019.10.12-05.45.38:672][152]LogHttp: Warning: 0000028C00A35D00: libcurl info message cache 1 (Re-using existing connection! (#68) with host datarouter.ol.epicgames.com)
+[2019.10.12-05.45.38:673][152]LogHttp: Warning: 0000028C00A35D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.206.62.221) port 443 (#68))
+[2019.10.12-05.45.38:673][152]LogHttp: Warning: 0000028C00A35D00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.12-05.45.38:673][152]LogHttp: Warning: 0000028C00A35D00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.12-05.45.38:673][152]LogHttp: Warning: 0000028C00A35D00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.12-05.45.38:673][152]LogHttp: Warning: 0000028C00A35D00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.12-05.45.38:673][152]LogHttp: Warning: 0000028C00A35D00: libcurl info message cache 7 (Closing connection 68)
+[2019.10.12-05.45.38:673][152]LogHttp: Warning: 0000028C00A35D00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.12-05.45.38:674][152]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B14B4843A-4AA8-3569-C0F0-00A07F3129EB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ae999e8541d2460070f644b158f2b42a%7C7c5f37177b644fee89ad296b286bc11d%7Cd7cb96ce-e030-4cd2-91f1-9c08bfa13457&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.12-05.46.14:563][450]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.12-05.46.14:567][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-05.46.14:568][450]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.12-05.46.14:569][450]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.12-05.46.14:687][450]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.12-05.46.14:688][450]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.12-05.46.14:830][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-05.46.15:045][450]LogUObjectHash: Compacting FUObjectHashTables data took   7.25ms
+[2019.10.12-05.46.15:109][451]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.10.12-05.47.11:357][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-05.49.13:213][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.10.12-05.49.13:779][971]LogSavePackage: Moving '../../../../UnrealGames/GameJamFall2019/MyProject/Saved/FirstPersonExampleMap_Auto7D013D7E74129FC4E24A5F9939F730268.tmp' to '../../../../UnrealGames/GameJamFall2019/MyProject/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto7.umap'
+[2019.10.12-05.49.13:794][971]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.628
+[2019.10.12-05.49.13:796][971]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.628
