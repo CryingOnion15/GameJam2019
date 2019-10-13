@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\MyProject.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{F8A99EA5-11BA-45F5-8D5F-FCA962B37A58}</UniqueIdentifier>
+      <UniqueIdentifier>{E42F756D-9575-4F80-8E13-66E9D540BEDF}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\MyProject.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{B143079A-145C-4DB6-9CF8-97EA5291467D}</UniqueIdentifier>
+      <UniqueIdentifier>{69F5A4F5-F93B-4D3C-A151-AA123D9B8F4B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,12 +30,24 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\MyProject">
-      <UniqueIdentifier>{9BCEDAAE-A240-4EF0-BB08-5DF113DAA21C}</UniqueIdentifier>
+      <UniqueIdentifier>{10A290C1-D778-4A4B-9F4B-5370E28A40AA}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\MyProject\MagMan.cpp">
+      <Filter>Source\MyProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject\MagMan.h">
+      <Filter>Source\MyProject</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\MyProject\MagnaMan.cpp">
       <Filter>Source\MyProject</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\MyProject\MagnaMan.h">
+      <Filter>Source\MyProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyProject\MagneticCube.cpp">
+      <Filter>Source\MyProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject\MagneticCube.h">
       <Filter>Source\MyProject</Filter>
     </ClInclude>
     <None Include="..\..\Source\MyProject\MyProject.Build.cs">
@@ -71,15 +83,5 @@
     <ClInclude Include="..\..\Source\MyProject\MyProjectProjectile.h">
       <Filter>Source\MyProject</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\Source\MyProject\MagneticCube.h">
-      <Filter>Source\MyProject</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\Source\MyProject\MagneticCube.cpp">
-      <Filter>Source\MyProject</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>

@@ -2,10 +2,6 @@
 	"BuildId": "8386587",
 	"Modules": 
 	{
-<<<<<<< HEAD
-		"MyProject": "UE4Editor-MyProject-0018.dll"
-=======
-		"MyProject": "UE4Editor-MyProject-0408.dll"
->>>>>>> 6fe9f31509d9f60a34947e2627523b41049c7bc3
+		"MyProject": "UE4Editor-MyProject-0022.dll"
 	}
 }
