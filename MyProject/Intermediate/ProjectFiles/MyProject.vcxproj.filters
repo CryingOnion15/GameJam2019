@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\MyProject.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{26471EA9-A6E9-4CC3-83E3-0CF5AD6261AD}</UniqueIdentifier>
+      <UniqueIdentifier>{CC6CC698-5718-449C-A00C-24F22968A71E}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\MyProject.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{4297472B-6FD3-416B-AA25-3966689688FB}</UniqueIdentifier>
+      <UniqueIdentifier>{2BFF793B-4286-4044-947A-319BE2B3F6BB}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,8 +30,14 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\MyProject">
-      <UniqueIdentifier>{88F95AEC-8ADE-4037-852F-544F24FEF955}</UniqueIdentifier>
+      <UniqueIdentifier>{910A6B48-464F-4E28-89D1-A6FE9E39A3E1}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\MyProject\MagneticCube.cpp">
+      <Filter>Source\MyProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject\MagneticCube.h">
+      <Filter>Source\MyProject</Filter>
+    </ClInclude>
     <None Include="..\..\Source\MyProject\MyProject.Build.cs">
       <Filter>Source\MyProject</Filter>
     </None>
@@ -65,15 +71,5 @@
     <ClInclude Include="..\..\Source\MyProject\MyProjectProjectile.h">
       <Filter>Source\MyProject</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\Source\MyProject\MagneticCube.h">
-      <Filter>Source\MyProject</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\Source\MyProject\MagneticCube.cpp">
-      <Filter>Source\MyProject</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>

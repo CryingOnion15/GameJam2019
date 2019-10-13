@@ -15,6 +15,23 @@ public:
 	// Sets default values for this actor's properties
 	AMagneticCube();
 
+	UPROPERTY(EditAnywhere)
+		bool bRed = false;
+
+	UPROPERTY(EditAnywhere)
+		bool bBlue = false;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		class UStaticMeshComponent* CubeMesh;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		class UBoxComponent* Cube;
+
+	UPROPERTY(EditAnywhere,BlueprintReadWrite, Category="Attract")
+		bool bAttract = true;
+
+	float ForceStrength;
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
@@ -22,5 +39,11 @@ protected:
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
+
+private:
+	
+	
+	
+	
 
 };

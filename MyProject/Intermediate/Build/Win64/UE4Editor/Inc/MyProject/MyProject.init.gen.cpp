@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeMyProject_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xB2E337CD,
+				0x352DBE34,
 				0x87A6F31D,
 				METADATA_PARAMS(nullptr, 0)
 			};

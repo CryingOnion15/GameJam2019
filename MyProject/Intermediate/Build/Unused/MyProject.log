@@ -1,14 +1,16 @@
-﻿  Using 'git status' to determine working set for adaptive non-unity build (F:\UnrealGames\GameJamFall2019).
+﻿  Using 'git status' to determine working set for adaptive non-unity build (F:\UnrealGames\GameJamFall2019\GameJam2019).
   Parsing headers for MyProjectEditor
-    Running UnrealHeaderTool "F:\UnrealGames\GameJamFall2019\MyProject\MyProject.uproject" "F:\UnrealGames\GameJamFall2019\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for MyProjectEditor in 5.7314888 seconds
+    Running UnrealHeaderTool "F:\UnrealGames\GameJamFall2019\GameJam2019\MyProject\MyProject.uproject" "F:\UnrealGames\GameJamFall2019\GameJam2019\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for MyProjectEditor in 29.0614436 seconds
   Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 4 actions with 4 processes...
-    [1/4] MagneticCube.cpp
-    [2/4] UE4Editor-MyProject-0018.lib
-       Creating library F:\UnrealGames\GameJamFall2019\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0018.lib and object F:\UnrealGames\GameJamFall2019\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0018.exp
-    [3/4] UE4Editor-MyProject-0018.dll
-       Creating library F:\UnrealGames\GameJamFall2019\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0018.suppressed.lib and object F:\UnrealGames\GameJamFall2019\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0018.suppressed.exp
-    [4/4] MyProjectEditor.target
-  Total time in Parallel executor: 2.15 seconds
-  Total execution time: 8.69 seconds
+  Building 6 actions with 4 processes...
+    [1/6] MyProject.init.gen.cpp
+    [2/6] MagneticCube.gen.cpp
+    [3/6] MagneticCube.cpp
+    [4/6] UE4Editor-MyProject-0063.lib
+       Creating library F:\UnrealGames\GameJamFall2019\GameJam2019\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0063.lib and object F:\UnrealGames\GameJamFall2019\GameJam2019\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0063.exp
+    [5/6] UE4Editor-MyProject-0063.dll
+       Creating library F:\UnrealGames\GameJamFall2019\GameJam2019\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0063.suppressed.lib and object F:\UnrealGames\GameJamFall2019\GameJam2019\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0063.suppressed.exp
+    [6/6] MyProjectEditor.target
+  Total time in Parallel executor: 150.40 seconds
+  Total execution time: 182.86 seconds
